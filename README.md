@@ -1,12 +1,7 @@
 # react-chess
+
 Making chess with react.js, a project for learning.
 
-# Tools
-1. JS (no ts for now)
-2. react
-3. rxjs
-4. react-dnd
-5. jest
 
 # Getting Started with Create React App
 
